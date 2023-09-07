@@ -6,7 +6,7 @@ Experienced Full Stack Developer | Google, Arcesium Alumnus
 
 📆 4+ Years of Industry Experience
 
-An accomplished Full Stack Developer with a passion for crafting scalable and innovative solutions. With over four years of hands-on experience in the tech industry and a background that includes stints at industry giants Google and Arcesium, I've honed my skills and expertise in building robust software systems that make a difference.
+An accomplished Full Stack Developer with a passion for crafting scalable and innovative solutions. With over four years of hands-on experience in the tech industry and a background that includes stints at industry giants <a href="https://www.google.com/"> <b>Google</b></a> and <a href="https://www.arcesium.com/"> <b>Arcesium</b></a>, I've honed my skills and expertise in building robust software systems that make a difference.
 
 ## Let's Connect
 
